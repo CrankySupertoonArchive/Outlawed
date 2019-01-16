@@ -1,0 +1,246 @@
+
+# Created by Ruins mod version 17.1 Ingame Parser
+# authoring Player: ST753M
+
+weight=1
+embed_into_distance=4
+acceptable_target_blocks=grass,dirt,podzol,mycelium,stone,biomesoplenty:grass,biomesoplenty:dirt
+unacceptable_target_blocks=flowing_water,water,flowing_lava,lava
+dimensions=11,12,12
+allowable_overhang=4
+max_leveling=0
+leveling_buffer=0
+preserve_water=0
+preserve_lava=0
+
+biomesToSpawnIn=savanna,savanna_rock,mutated_savanna,mutated_savanna_rock,brushland,steppe,wasteland,tundra,outback,badlands,prairie,chaparral,rocky_plains,rocky_plateau
+
+=0,100,air
+rule1=0,100,preserveBlock
+rule2=0,100,minecraft:log-0
+rule3=0,100,minecraft:log-8
+rule4=0,100,minecraft:dirt-1
+rule5=0,100,minecraft:log-4
+rule6=0,100,minecraft:acacia_fence_gate-1
+rule7=0,100,minecraft:acacia_fence-0
+rule8=0,100,minecraft:hay_block-0
+rule9=0,100,CommandBlock:RUINSTRIGGER /summon animania:ewe_jacob ~ ~1 ~:@-1
+^0,100,CommandBlock:RUINSTRIGGER /summon animania:ewe_merino ~ ~1 ~:@-1
+^0,100,CommandBlock:RUINSTRIGGER /summon animania:ewe_dorset ~ ~1 ~:@-1
+^0,100,CommandBlock:RUINSTRIGGER /summon animania:ewe_dorper ~ ~1 ~:@-1
+^0,100,CommandBlock:RUINSTRIGGER /summon animania:ewe_suffolk ~ ~1 ~:@-1
+^0,100,CommandBlock:RUINSTRIGGER /summon animania:ewe_friesian ~ ~1 ~:@-1
+^0,100,CommandBlock:RUINSTRIGGER /summon animania:buck_angora ~ ~1 ~:@-1
+^0,100,CommandBlock:RUINSTRIGGER /summon animania:buck_fainting ~ ~1 ~:@-1
+^0,100,CommandBlock:RUINSTRIGGER /summon animania:buck_kiko ~ ~1 ~:@-1
+^0,100,CommandBlock:RUINSTRIGGER /summon animania:buck_kinder ~ ~1 ~:@-1
+^0,100,CommandBlock:RUINSTRIGGER /summon animania:buck_nigerian_dwarf ~ ~1 ~:@-1
+^0,100,CommandBlock:RUINSTRIGGER /summon animania:buck_pygmy ~ ~1 ~:@-1
+rule10^0,100,minecraft:acacia_fence_gate-2
+^0,100,minecraft:acacia_fence_gate-2
+^0,100,minecraft:acacia_fence_gate-2
+^0,100,minecraft:acacia_fence_gate-2
+^0,100,minecraft:acacia_fence_gate-2
+^0,100,minecraft:acacia_fence_gate-2
+^0,100,minecraft:acacia_fence_gate-2
+^0,100,minecraft:acacia_fence_gate-2
+^0,100,minecraft:acacia_fence_gate-2
+^0,100,minecraft:acacia_fence_gate-2
+^0,100,minecraft:acacia_fence_gate-2
+^0,100,minecraft:acacia_fence_gate-2
+rule11^0,100,CommandBlock:RUINSTRIGGER /summon animania:ram_jacob ~ ~1 ~:@-1
+^0,100,CommandBlock:RUINSTRIGGER /summon animania:ram_merino ~ ~1 ~:@-1
+^0,100,CommandBlock:RUINSTRIGGER /summon animania:ram_dorset ~ ~1 ~:@-1
+^0,100,CommandBlock:RUINSTRIGGER /summon animania:ram_dorper ~ ~1 ~:@-1
+^0,100,CommandBlock:RUINSTRIGGER /summon animania:ram_suffolk ~ ~1 ~:@-1
+^0,100,CommandBlock:RUINSTRIGGER /summon animania:ram_friesian ~ ~1 ~:@-1
+^0,100,CommandBlock:RUINSTRIGGER /summon animania:doe_angora ~ ~1 ~:@-1
+^0,100,CommandBlock:RUINSTRIGGER /summon animania:doe_fainting ~ ~1 ~:@-1
+^0,100,CommandBlock:RUINSTRIGGER /summon animania:doe_kiko ~ ~1 ~:@-1
+^0,100,CommandBlock:RUINSTRIGGER /summon animania:doe_kinder ~ ~1 ~:@-1
+^0,100,CommandBlock:RUINSTRIGGER /summon animania:doe_nigerian_dwarf ~ ~1 ~:@-1
+^0,100,CommandBlock:RUINSTRIGGER /summon animania:doe_pygmy ~ ~1 ~:@-1
+rule12=0,100,minecraft:acacia_fence_gate-0
+rule13=0,100,CommandBlock:RUINSTRIGGER /summon animania:wagon ~6 ~4 ~9:@-1
+rule14=0,100,teBlock;minecraft:bed;{color:4,x:-2362,y:133,z:1852,id:"minecraft:bed"}-3
+^0,100,air
+rule15^0,100,teBlock;minecraft:bed;{color:4,x:-2361,y:133,z:1852,id:"minecraft:bed"}-11
+^0,100,air
+rule16=0,100,minecraft:acacia_fence_gate-3
+rule17=0,100,minecraft:wooden_slab-4
+rule18=0,100,minecraft:acacia_stairs-3
+rule19=0,100,minecraft:acacia_stairs-2
+rule20=0,100,minecraft:planks-4
+rule21=0,100,minecraft:wooden_slab-12
+rule22=0,100,minecraft:acacia_stairs-5
+rule23=0,100,minecraft:acacia_stairs-1
+rule24=0,100,minecraft:acacia_stairs-0
+rule25=0,100,minecraft:acacia_stairs-7
+rule26=0,100,minecraft:acacia_stairs-4
+rule27=0,100,minecraft:acacia_stairs-6
+
+layer
+1,1,1,1,1,1,1,1,1,1,1,1
+1,1,1,1,2,1,1,2,1,1,1,1
+1,1,2,1,1,1,1,1,1,2,1,1
+1,1,1,1,1,1,1,1,1,1,1,1
+1,2,1,1,1,1,1,1,1,1,2,1
+1,1,1,1,1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1,1,1,1,1
+1,2,1,1,1,1,1,1,1,1,2,1
+1,1,1,1,1,1,1,1,1,1,1,1
+1,1,2,1,1,1,1,1,1,2,1,1
+1,1,1,1,2,1,1,2,1,1,1,1
+1,1,1,1,1,1,1,1,1,1,1,1
+endlayer
+
+layer
+1,1,1,1,1,1,1,1,1,1,1,1
+1,1,1,1,2,1,1,2,1,1,1,1
+1,1,2,1,1,1,1,1,1,2,1,1
+1,1,1,1,1,1,1,1,1,1,1,1
+1,2,1,1,1,1,1,1,1,1,2,1
+1,1,1,1,1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1,1,1,1,1
+1,2,1,1,1,1,1,1,1,1,2,1
+1,1,1,1,1,1,1,1,1,1,1,1
+1,1,2,1,1,1,1,1,1,2,1,1
+1,1,1,1,2,1,1,2,1,1,1,1
+1,1,1,1,1,1,1,1,1,1,1,1
+endlayer
+
+layer
+1,1,1,1,1,1,1,1,1,1,1,1
+1,1,1,1,2,1,1,2,1,1,1,1
+1,1,2,1,1,1,1,1,1,2,1,1
+1,1,1,1,1,1,1,1,1,1,1,1
+1,2,1,1,1,1,1,1,1,1,2,1
+1,1,1,1,1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1,1,1,1,1
+1,2,1,1,1,1,1,1,1,1,2,1
+1,1,1,1,1,1,1,1,1,1,1,1
+1,1,2,1,1,1,1,1,1,2,1,1
+1,1,1,1,2,1,1,2,1,1,1,1
+1,1,1,1,1,1,1,1,1,1,1,1
+endlayer
+
+layer
+1,1,1,1,1,1,1,1,1,1,1,1
+1,1,1,1,2,3,3,2,1,1,1,1
+1,1,2,4,4,4,4,4,4,2,1,1
+1,1,4,4,4,4,4,4,4,4,1,1
+1,2,4,4,4,4,4,4,4,4,2,1
+1,5,4,4,4,4,4,4,4,4,5,1
+1,5,4,4,4,4,4,4,4,4,5,1
+1,2,4,4,4,4,4,4,4,4,2,1
+1,1,4,4,4,4,4,4,4,4,1,1
+1,1,2,4,4,4,4,4,4,2,1,1
+1,1,1,1,2,3,3,2,1,1,1,1
+1,1,1,1,1,1,1,1,1,1,1,1
+endlayer
+
+layer
+1,1,1,1,1,1,1,1,1,1,1,1
+1,1,1,1,2,6,6,2,1,1,1,1
+1,1,2,7,7,0,0,7,7,2,1,1
+1,1,7,0,8,0,0,0,0,7,1,1
+1,2,7,0,0,0,9,0,0,7,2,1
+1,12,0,0,0,11,9,11,0,0,10,1
+1,12,8,0,0,0,13,0,0,0,10,1
+1,2,7,0,8,8,0,0,14,7,2,1
+1,1,7,8,8,0,0,8,15,7,1,1
+1,1,2,7,7,0,0,7,7,2,1,1
+1,1,1,1,2,16,16,2,1,1,1,1
+1,1,1,1,1,1,1,1,1,1,1,1
+endlayer
+
+layer
+1,1,1,1,1,1,1,1,1,1,1,1
+1,1,1,1,2,0,0,2,1,1,1,1
+1,1,2,7,0,0,0,0,7,2,1,1
+1,1,7,0,0,0,0,0,0,7,1,1
+1,2,0,0,0,0,0,0,0,0,2,1
+1,0,0,0,0,0,0,0,0,0,0,1
+1,0,8,0,0,0,0,0,0,0,0,1
+1,2,0,0,8,0,0,0,0,0,2,1
+1,1,7,8,0,0,0,0,0,7,1,1
+1,1,2,7,0,0,0,0,7,2,1,1
+1,1,1,1,2,0,0,2,1,1,1,1
+1,1,1,1,1,1,1,1,1,1,1,1
+endlayer
+
+layer
+1,1,1,1,1,1,1,1,1,1,1,1
+1,1,1,1,2,0,0,2,1,1,1,1
+1,1,2,7,0,0,0,0,7,2,1,1
+1,1,7,7,0,0,0,0,7,7,1,1
+1,2,0,0,0,0,0,0,0,0,2,1
+1,0,0,0,0,0,0,0,0,0,0,1
+1,0,0,0,0,0,0,0,0,0,0,1
+1,2,0,0,0,0,0,0,0,0,2,1
+1,1,7,7,0,0,0,0,7,7,1,1
+1,1,2,7,0,0,0,0,7,2,1,1
+1,1,1,1,2,0,0,2,1,1,1,1
+1,1,1,1,1,1,1,1,1,1,1,1
+endlayer
+
+layer
+1,1,1,1,18,17,17,17,1,1,1,1
+1,1,17,17,20,20,20,20,19,17,1,1
+1,18,20,20,22,0,0,21,20,20,19,1
+1,17,20,7,0,0,0,0,7,20,23,1
+17,20,21,0,0,0,0,0,0,25,20,24
+24,20,0,0,0,0,0,0,0,21,20,19
+18,20,0,0,0,0,0,0,0,0,20,17
+17,20,26,0,0,0,0,0,0,26,20,17
+1,18,20,7,0,0,0,0,7,20,23,19
+1,23,20,20,26,0,26,27,20,20,17,1
+1,1,17,18,20,20,20,20,17,23,1,1
+1,1,1,1,17,17,23,19,1,1,1,1
+endlayer
+
+layer
+1,1,1,1,1,1,1,1,1,1,1,1
+1,1,1,1,1,17,18,17,1,1,1,1
+1,1,1,18,20,20,20,20,17,1,1,1
+1,1,17,20,21,27,0,20,20,17,1,1
+1,17,20,20,0,22,0,25,21,20,1,1
+1,1,20,27,0,0,0,0,0,20,24,1
+1,18,20,0,0,0,0,0,26,20,19,1
+1,17,20,21,26,0,21,0,21,19,1,1
+1,1,17,20,20,21,27,26,20,17,1,1
+1,1,23,17,20,20,20,20,17,1,1,1
+1,1,1,1,17,17,19,1,1,1,1,1
+1,1,1,1,1,1,1,1,1,1,1,1
+endlayer
+
+layer
+1,1,1,1,1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1,1,1,1,1
+1,1,1,1,18,1,24,19,1,1,1,1
+1,1,1,1,17,20,20,23,1,1,1,1
+1,1,24,17,20,20,20,20,17,1,1,1
+1,1,18,20,20,20,20,20,20,19,1,1
+1,1,17,20,20,20,20,20,20,17,1,1
+1,1,1,17,20,20,20,20,19,1,1,1
+1,1,1,24,19,20,20,17,1,1,1,1
+1,1,1,1,1,17,23,1,1,1,1,1
+1,1,1,1,1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1,1,1,1,1
+endlayer
+
+layer
+1,1,1,1,1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1,1,1,1,1
+1,1,1,1,1,1,17,1,1,1,1,1
+1,1,1,1,1,17,0,1,1,1,1,1
+1,1,1,17,1,17,23,19,1,1,1,1
+1,1,1,1,17,19,17,17,1,1,1,1
+1,1,1,1,1,17,24,1,1,1,1,1
+1,1,1,1,1,1,17,1,1,1,1,1
+1,1,1,1,1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1,1,1,1,1
+endlayer
+

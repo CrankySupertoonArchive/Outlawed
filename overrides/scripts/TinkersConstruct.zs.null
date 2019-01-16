@@ -1,0 +1,32 @@
+//Outlawed Modpack
+//Made By CindyLouWho
+#priority 80
+import crafttweaker.item.IItemStack;
+
+mods.jei.JEI.removeAndHide(<tconstruct:smeltery_controller>);
+mods.jei.JEI.removeAndHide(<tconstruct:seared_tank:*>);
+mods.jei.JEI.removeAndHide(<tconstruct:faucet>);
+mods.jei.JEI.removeAndHide(<tconstruct:channel>);
+mods.jei.JEI.removeAndHide(<tconstruct:casting:*>);
+mods.jei.JEI.removeAndHide(<tconstruct:seared_glass:*>);
+mods.jei.JEI.removeAndHide(<tconstruct:smeltery_io>);
+mods.jei.JEI.removeAndHide(<tconstruct:seared_furnace_controller>);
+mods.jei.JEI.removeAndHide(<tconstruct:tinker_tank_controller>);
+mods.jei.JEI.removeAndHide(<tconstruct:seared_slab:*>);
+mods.jei.JEI.removeAndHide(<tconstruct:seared_slab2:*>);
+mods.jei.JEI.removeAndHide(<tconstruct:cast>);
+mods.jei.JEI.removeAndHide(<tconstruct:clay_cast>);
+mods.jei.JEI.removeAndHide(<tconstruct:seared_stairs_stone>);
+mods.jei.JEI.removeAndHide(<tconstruct:seared_stairs_cobble>);
+mods.jei.JEI.removeAndHide(<tconstruct:seared_stairs_paver>);
+mods.jei.JEI.removeAndHide(<tconstruct:seared_stairs_brick>);
+mods.jei.JEI.removeAndHide(<tconstruct:seared_stairs_brick_cracked>);
+mods.jei.JEI.removeAndHide(<tconstruct:seared_stairs_brick_fancy>);
+mods.jei.JEI.removeAndHide(<tconstruct:seared_stairs_brick_triangle>);
+mods.jei.JEI.removeAndHide(<tconstruct:seared_stairs_brick_square>);
+mods.jei.JEI.removeAndHide(<tconstruct:seared_stairs_brick_small>);
+mods.jei.JEI.removeAndHide(<tconstruct:seared_stairs_road>);
+mods.jei.JEI.removeAndHide(<tconstruct:seared_stairs_tile>);
+mods.jei.JEI.removeAndHide(<tconstruct:seared_stairs_creeper>);
+mods.jei.JEI.removeAndHide(<tconstruct:soil>);
+mods.jei.JEI.removeAndHide(<tconstruct:materials:0>);

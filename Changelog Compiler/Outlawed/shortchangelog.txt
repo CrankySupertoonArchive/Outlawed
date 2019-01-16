@@ -1,0 +1,73 @@
+Outlawed 0.0.4 to Outlawed 0.0.5
+
+Added:
+	- Auxilium Equivalence
+	- Ceramics
+	- CoFH Core
+	- CoFH World
+	- Dynamic Dynamos
+	- Extra Utilities
+	- Project EX
+	- Redstone Arsenal
+	- Redstone Flux
+	- Redstone Repository Revolved
+	- Simply Jetpacks 2
+	- Thermal Cultivation
+	- Thermal Dynamics
+	- Thermal Expansion
+	- Thermal Foundation
+	- Thermal Innovation
+	- Too Many Efficiency Losses
+	- UniDict
+	- WanionLib
+	- Whoosh
+	- Zen: Foundry
+
+Updated:
+	Cuisine (went from Cuisine-0.4.1-build756.jar to Cuisine-0.4.2-build772.jar)
+	Cyclic (went from Cyclic-1.12.2-1.17.13.jar to Cyclic-1.12.2-1.17.14.jar)
+	FTB Library (went from FTBLib-5.4.1.75.jar to FTBLib-5.4.1.77.jar)
+	FTB Quests (went from FTBQuests-1.4.1.113.jar to FTBQuests-1.5.0.118.jar)
+	Item Filters (went from ItemFilters-1.0.1.3.jar to ItemFilters-1.0.1.5.jar)
+	Just Enough Items (JEI) (went from jei_1.12.2-4.14.4.251.jar to jei_1.12.2-4.14.4.259.jar)
+	Roots Classic (went from RootsClassic-1.12.2-1.1.1.jar to RootsClassic-1.12.2-1.1.3.jar)
+	Silent's Gems (went from SilentsGems-1.12.2-2.8.12-310.jar to SilentsGems-1.12.2-2.8.13-312.jar)
+	The One Probe (went from TheOneProbe - 1.12-1.4.25 to TheOneProbe - 1.12-1.4.27)
+
+Removed:
+	- Abyss: Voice
+	- AgriCraft
+	- Anima Mundi
+	- Armory Expansion
+	- Biome Bundle
+	- Construct's Armory
+	- Crystals
+	- Cyclops Core
+	- Dartcraft Reloaded
+	- Doggy Talents
+	- Enderman Evolution
+	- EvilCraft
+	- Ferdinand's Flowers
+	- Guidebook
+	- InfinityLib
+	- KJLib
+	- Linking Through the Ages (LTTA)
+	- Long Fall Boots
+	- Lord Craft
+	- MagicBooks2
+	- McJtyLib
+	- Mob Grinding Utils
+	- More Mystcraft
+	- Mystcraft
+	- mystcraft-info
+	- Nether Overload
+	- Not Enough Wands
+	- Open Terrain Generator (OTG)
+	- Progressive Alchemy
+	- Silent's Gems - TiC Support
+	- The Disenchanter Mod
+	- Tinker's JEI
+	- Tinkers Construct
+	- Tinkers' Tool Leveling
+	- Totemic
+	- Wizardry Mod

@@ -1,4 +1,4 @@
-# Outlawed
+# Outlawed [![Discord][discordImg]][discordLink] [![Curseforge][curseImg]][curseLink]
 
 ![love](https://forthebadge.com/images/badges/built-with-love.svg) ![git](https://forthebadge.com/images/badges/uses-git.svg) ![twitch](https://image.ibb.co/k860ep/madewithtwitch.png) ![mc](https://image.ibb.co/g2jWkU/mc.png)
 
@@ -44,3 +44,11 @@ You NEED this software installed.
 ## 🎓 License
 
 This project is licensed under my custom license - see the [LICENSE](LICENSE) file for details
+
+[discordImg]: https://img.shields.io/discord/408412538003259412.svg?logo=discord&logoWidth=18&colorB=7289DA
+
+[discordLink]: https://discord.gg/jVXQFNQ
+
+[curseImg]: http://cf.way2muchnoise.eu/294580.svg
+
+[curseLink]: https://minecraft.curseforge.com/projects/outlawed
